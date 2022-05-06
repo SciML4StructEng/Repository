@@ -22,15 +22,15 @@ Many people deserve thanks for making the repository a success. Foremost among t
 ## Citation
 If you publish material based on databases obtained from this repository, then, in your acknowledgements, please note the assistance you received by using this repository. This will help others to obtain the same data sets and replicate your experiments. We suggest the following pseudo-APA reference format for referring to this repository:
 
-    Müller, A. and Kraus, M. (2022). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Zurich, CH: ETH Zurich, D-BAUG.
+    Müller, A. and Kraus, M. (2022). Scientific Machine Learning for Structural Engineering Repository (SciML4StructEng_Repository) [https://github.com/mkrausAi/SciML4StructEng_Repository]. Zurich, CH: ETH Zurich, D-BAUG.
 
 Here is a BiBTeX citation as well:
 
     @misc{MullerKraus2022,
     author = "M\"uller, Andreas and Kraus, Michael",
     year = "2022",
-    title = "Scientific Machine Learning for Structural Engineering Repository",
-    url = "http://archive.ics.uci.edu/ml",
+    title = "Scientific Machine Learning for Structural Engineering Repository (SciML4StructEng_Repository)",
+    url = "https://github.com/mkrausAi/SciML4StructEng_Repository",
     institution = "ETH Zurich" }
 
 Some data sets have additional citation requests, which can be found on the bottom of each data set's page. 
