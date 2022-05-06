@@ -4,7 +4,11 @@
 <!-- A repository of datasets for structural engineering applications
 ============================== -->
 
-![BridgeGenome logo](Cover_BridgeGenomeProject.png)
+*   [Background and Motivation](#Background)
+*   [Citation](#Citation)
+*   [Data Set Donation](#DataSetDonation)
+*   [Contact](#Contact)
+
 
 We maintain data sets from structural engineering as a service to the enable and foster scientific machine learning and its community. 
 All data sets through our searchable interface. 
@@ -13,13 +17,15 @@ For information about citing data sets in publications, please read our citation
 If you wish to donate a data set, please consult our donation policy. For any other questions, feel free to contact the Repository librarians.
 
 
-## Background and Motivation
+## <a name="Background"></a>Background and Motivation
+
 The SciML4StructEng_Repository is a collection of databases from civil structural engineering to be used by the scientific machine learning community for the empirical analysis of machine and deep learning algorithms. The archive was created in 2022 by M.Sc. Andreas Müller and Dr. Michael Kraus at ETH Zurich.
 
 Many people deserve thanks for making the repository a success. Foremost among them are the donors and creators of the databases and data generators.
 
 
-## Citation
+## <a name="Citation"></a>Citation
+
 If you publish material based on databases obtained from this repository, then, in your acknowledgements, please note the assistance you received by using this repository. This will help others to obtain the same data sets and replicate your experiments. We suggest the following pseudo-APA reference format for referring to this repository:
 
     Müller, A. and Kraus, M. (2022). Scientific Machine Learning for Structural Engineering Repository (SciML4StructEng_Repository) [https://github.com/mkrausAi/SciML4StructEng_Repository]. Zurich, CH: ETH Zurich, D-BAUG.
@@ -36,7 +42,8 @@ Here is a BiBTeX citation as well:
 Some data sets have additional citation requests, which can be found on the bottom of each data set's page. 
 
 
-## Data Set Donation
+## <a name="DataSetDonation"></a>Data Set Donation
+
 Thank you for considering donating a dataset to the SciML4StructEng_Repository! 
 Through donating a dataset, you are helping keep scientific machine learning and civil structural engineering a vital research area.
 
@@ -50,8 +57,7 @@ Before donating a dataset, please read the IMPORTANT information below:
 For questions, please email one of the contacts.
 
 
-
-# Contact
+## <a name="Contact"></a>Contact
 
 M.Sc. Andreas Müller
 Institut für Baustatik und Konstruktion (IBK)
