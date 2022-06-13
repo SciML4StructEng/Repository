@@ -18,7 +18,7 @@ If you wish to donate a data set, please consult our donation policy. For any ot
 
 ## <a name="Background"></a>Background and Motivation
 
-The SciML4StructEng_Repository is a collection of databases from civil structural engineering to be used by the scientific machine learning community for the empirical analysis of machine and deep learning algorithms. The archive was created in 2022 by M.Sc. Andreas Müller and Dr. Michael Kraus at ETH Zurich.
+The SciML4StructEng_Repository is a collection of databases from civil structural engineering to be used by the scientific machine learning community for the empirical analysis of machine and deep learning algorithms. The archive was created in 2022 by M.Sc. Andreas Müller, M.Sc. Sophia Kuhn and Dr. Michael Kraus at ETH Zurich.
 
 Many people deserve thanks for making the repository a success. Foremost among them are the donors and creators of the databases and data generators.
 
@@ -27,15 +27,15 @@ Many people deserve thanks for making the repository a success. Foremost among t
 
 If you publish material based on databases obtained from this repository, then, in your acknowledgements, please note the assistance you received by using this repository. This will help others to obtain the same data sets and replicate your experiments. We suggest the following pseudo-APA reference format for referring to this repository:
 
-    Müller, A. and Kraus, M. (2022). Scientific Machine Learning for Structural Engineering Repository (SciML4StructEng_Repository) [https://github.com/mkrausAi/SciML4StructEng_Repository]. Zurich, CH: ETH Zurich, D-BAUG.
+    Müller, A. and Kuhn, S. and Kraus, M. (2022). Scientific Machine Learning for Structural Engineering Repository (SciML4StructEng_Repository) [https://github.com/SciML4StructEng/Repository]. Zurich, CH: ETH Zurich, D-BAUG.
 
 Here is a BiBTeX citation as well:
 
     @misc{MullerKraus2022,
-    author = "M\"uller, Andreas and Kraus, Michael",
+    author = "M\"uller, Andreas and Kuhn, S. and Kraus, Michael",
     year = "2022",
     title = "Scientific Machine Learning for Structural Engineering Repository (SciML4StructEng_Repository)",
-    url = "https://github.com/mkrausAi/SciML4StructEng_Repository",
+    url = "https://github.com/SciML4StructEng/Repository",
     institution = "ETH Zurich" }
 
 Some data sets have additional citation requests, which can be found on the bottom of each data set's page. 
@@ -64,9 +64,16 @@ ETH Zürich
 andreas.mueller@ibk.baug.ethz.ch
 https://taras.ibk.ethz.ch/de/personen/wissenschaftliche-mitarbeitende/andreas-mueller.html
 
+M.Sc. Sophia Kuhn
+Institut für Baustatik und Konstruktion (IBK)
+Design++ Initiative
+ETH Zürich
+sophia.kuhn@ibk.baug.ethz.ch
+https://kaufmann.ibk.ethz.ch/de/personen/mitarbeitende/sophia-kuhn.html
 
 Dr. Michael A. Kraus, M.Sc.(hons)
 Institut für Baustatik und Konstruktion (IBK)
+Design++ Initiative
 ETH Zürich
 kraus@ibk.baug.ethz.ch
 https://kaufmann.ibk.ethz.ch/de/personen/mitarbeitende/dr-michael-anton-kraus.html
