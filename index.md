@@ -31,12 +31,12 @@ If you publish material based on databases obtained from this repository, then, 
 
 Here is a BiBTeX citation as well:
 
-    @misc{MullerKraus2022,
+    @misc{MullerKuhnKraus_SciML_2022,
     author = "M\"uller, Andreas and Kuhn, S. and Kraus, Michael",
     year = "2022",
     title = "Scientific Machine Learning for Structural Engineering Repository (SciML4StructEng_Repository)",
     url = "https://sciml4structeng.github.io/Repository/",
-    institution = "ETH Zurich" }
+    institution = "ETH Zurich"}
 
 Some data sets have additional citation requests, which can be found on the bottom of each data set's page. 
 
